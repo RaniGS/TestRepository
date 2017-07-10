@@ -1,4 +1,4 @@
 greeting:
  message: Good AFternoon
 loop:
- counter: 1000000
+ counter: 10000000
